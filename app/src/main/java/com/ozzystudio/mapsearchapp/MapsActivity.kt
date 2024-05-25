@@ -184,7 +184,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
                 } else {
                     // Error case, go to the default location
                     Log.e("MapsActivity", "Current location is null. Using defaults.")
-                    mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(LatLng(0.0, 0.0), 15f))
+                    //mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(LatLng(0.0, 0.0), 15f))
                 }
             }
         } catch (e: SecurityException) {
