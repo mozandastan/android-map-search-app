@@ -55,7 +55,10 @@ This project is a map application developed using Kotlin. The application finds 
 
 ## Screenshots
 
-![Main Screen](screenshots/main_screen.png)
+![ss3](https://github.com/mozandastan/android-map-search-app/assets/151640771/c72964c9-524b-44c5-8d0d-ecb2fa40de13)
+![ss1](https://github.com/mozandastan/android-map-search-app/assets/151640771/bcf38245-77cd-4c52-82db-c9d180b57acd) 
+![ss2](https://github.com/mozandastan/android-map-search-app/assets/151640771/fb5dc1de-78a3-46cc-8256-1d7a8219248a) 
+
 
 ## Contact
 
